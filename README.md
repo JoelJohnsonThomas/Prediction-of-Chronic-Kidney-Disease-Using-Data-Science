@@ -1,4 +1,4 @@
-# Chronic Kidney_Cancer_Prediction_
+# Chronic Kidney Disease Prediction
 The goal of this project is to develop an automated chronic kidney disease assessment where user can enter some details and can get free assessment based on the input data, The assessments are done with the help of trained machine learning models.
 
 ### To run application
