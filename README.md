@@ -15,7 +15,7 @@ $ python server.py
    Username : admin
    Password : admin
 
-### Demo
+
 
 ![](static/scrn1.png)
 
